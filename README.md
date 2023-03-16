@@ -1,6 +1,7 @@
 # TAKEAWAY
 
 ## Technology Stack
+---
 * React JS
 * React Hook
 * React Props
