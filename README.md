@@ -30,6 +30,7 @@
   - [x] Add, Update, Delete Items used dynamic form
   - [x] Add, Update, Delete Orders used multi state dynamic form
   - [x] User Profile
+ ---
 - [x] Admin
   - [x] Display Orders Data
   - [x] Pagination
